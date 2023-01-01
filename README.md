@@ -1,12 +1,12 @@
 # k3s-innit
 Script to start your own k3s cluster with ease.
 
-##functions:
+## Functions:
 - Install k3s master.
 - Install k3s worker.
 - (Optional) Install portainer
 
-##help
+## Help
 run k3s-init.sh -h
 
   Run this script as root!
